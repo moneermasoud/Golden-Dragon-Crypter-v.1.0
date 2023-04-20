@@ -5,7 +5,7 @@ Golden Dragon Crypter v.1.0 For Encrypt Files and Decrypt Files
 
 <h3>This app uses algorithm AES 256 encryption For Encrypt Files and Decrypt Files  </h3>
 
-<p>You can Encrypt Files and Decrypt Files by this app Easily </p>
+<p><h3>You can Encrypt Files and Decrypt Files by this app Easily </h3></p>
 
 ------------------------------------------
 
