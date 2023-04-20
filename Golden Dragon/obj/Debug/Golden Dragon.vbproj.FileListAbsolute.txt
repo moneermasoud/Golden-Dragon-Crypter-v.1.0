@@ -1,0 +1,15 @@
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\bin\Debug\Golden Dragon.exe.config
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\bin\Debug\Golden Dragon.exe
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\bin\Debug\Golden Dragon.pdb
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\bin\Debug\Golden Dragon.xml
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden_Dragon.Form1.resources
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden_Dragon.Resources.resources
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden Dragon.vbproj.GenerateResource.Cache
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden Dragon.exe
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden Dragon.xml
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden Dragon.pdb
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden_Dragon.Main.resources
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden_Dragon.FRM_encrypt.resources
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden_Dragon.Settings.resources
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden_Dragon.FRM_Decrypt.resources
+D:\MyWork\برمجة\Golden Dragon\Golden Dragon\obj\Debug\Golden_Dragon.FRM_view.resources
