@@ -15,3 +15,4 @@ Golden Dragon Crypter v.1.0 For Encrypt Files and Decrypt Files
 <p>SQL Server 2008 R2 / 2014 </p>
 <p>.NET freamwork v.4</p>
 Note : Please install the fonts before using a this App </h3>
+For Any Other Tools Go To My Telegram Channel : https://t.me/th3darklyChannel
